@@ -21,10 +21,10 @@ python DenoiseLocalise.py
 <b> Change : </b>
 config.py : 
 
--img_name = 'indoor_120.png' #Your image name
--trySynthetic = True/False #Whether to provide the demo on the synthetic or real data(300VW)
--image_directory = 'ex_images' #the directory of the image
--cl_type = 0#0,1,2 the type of denoising. 
+1. img_name = 'indoor_120.png' #Your image name
+2. trySynthetic = True/False #Whether to provide the demo on the synthetic or real data(300VW)
+3. image_directory = 'ex_images' #the directory of the image
+4. cl_type = 0#0,1,2 the type of denoising. 
 
 Citation : 
 coming soon
