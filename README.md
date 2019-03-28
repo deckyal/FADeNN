@@ -1,5 +1,5 @@
 # FADeNN
-This is The Repository of Robust Facial Alignment with Internal Denoising Auto-Encoder
+This is the Repository of Robust Facial Alignment with Internal Denoising Auto-Encoder
 
 
 Requirements : 
@@ -28,4 +28,4 @@ config.py :
 
 Citation : 
 
-D. Aspandi, O. Pujol, F. Sukno, and X. Binefa, “Robust Facial Alignment with InternalDenoising Auto-Encoder” inCRV 2019, In Press.
+D. Aspandi, O. Pujol, F. Sukno, and X. Binefa, “Robust Facial Alignment with InternalDenoising Auto-Encoder” in CRV 2019, In Press.
