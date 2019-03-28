@@ -1,5 +1,5 @@
 # FADeNN
-This is The Repository of coming soon 
+This is The Repository of Robust Facial Alignment with Internal Denoising Auto-Encoder
 
 
 Requirements : 
@@ -27,4 +27,5 @@ config.py :
 4. cl_type = 0#0,1,2 the type of denoising. 
 
 Citation : 
-coming soon
+
+D. Aspandi, O. Pujol, F. Sukno, and X. Binefa, “Robust Facial Alignment with InternalDenoising Auto-Encoder” inCRV 2019, In Press.
