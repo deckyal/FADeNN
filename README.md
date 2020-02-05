@@ -1,5 +1,5 @@
 # FADeNN
-This is the Repository of our <a href="https://ieeexplore.ieee.org/document/8781618">paper</a> of Robust Facial Alignment with Internal Denoising Auto-Encoder.
+This is the repository of our <a href="https://ieeexplore.ieee.org/document/8781618">paper</a> of Robust Facial Alignment with Internal Denoising Auto-Encoder.
 
 
 Requirements : 
@@ -8,7 +8,7 @@ Requirements :
 3. Pytorch GPU : https://pytorch.org/
 3. Other packages, can be installed by cloning my environment file on src : env.yml
 
-This Repository hold the Facial Localiser from this repo : https://github.com/deckyal/RT
+This repository holds the Facial Localiser from this repo : https://github.com/deckyal/RT
 
 <b> Example of the facial alignment </b>
 
